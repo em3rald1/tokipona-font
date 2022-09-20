@@ -17,6 +17,6 @@ Modification
 - And now do whatever you want with this resourcepack.
 Sources used:
 ---
-- Font "nasin nanpa" and "nasin nanpa lasina kin" by ETBCOR (https://github.com/ETBCOR/nasin-nanpa)
+- Font "nasin nanpa" and "nasin nanpa lasina kin" by ETBCOR (jan Itan) (etbcor#6146)  (https://github.com/ETBCOR/nasin-nanpa)
 - Image by soweli Ken
 - My dumbness
