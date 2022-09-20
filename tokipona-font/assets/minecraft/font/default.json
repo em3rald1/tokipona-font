@@ -1,0 +1,11 @@
+ {
+     "providers": [
+         {
+             "type": "ttf",
+             "file": "minecraft:nasinnanpa.ttf",
+ 			"shift": [0, 0],
+ 			"size": 14.0,
+ 			"oversample": 2.0
+         }
+ 	]
+ }
