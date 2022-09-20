@@ -3,9 +3,9 @@
          {
              "type": "ttf",
              "file": "minecraft:nasinnanpa.ttf",
- 			"shift": [0, 0],
- 			"size": 14.0,
- 			"oversample": 2.0
+ 			"shift": [-2, 0],
+ 			"size": 12.0,
+ 			"oversample": 6.0
          }
  	]
  }
